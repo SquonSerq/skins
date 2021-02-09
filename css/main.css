@@ -52,14 +52,14 @@ hr{
 
 .skin-name{
     transition: 0.3s;
-    color: #0582ca;
+    color: #00a6fb;
     text-decoration: none;
     text-transform: capitalize;
     font-size: 24px;
 }
 
 .skin-name:hover{
-    color: #00a6fb;
+    color: #0582ca;
 }
 
 .skin-image{
